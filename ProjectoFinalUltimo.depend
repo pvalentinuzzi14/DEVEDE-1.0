@@ -1,0 +1,319 @@
+# depslib dependency file v1.0
+1574112703 source:c:\users\francisco\desktop\projectofinalultimo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"time.h"
+	"Menu.h"
+	"tdaClientes.h"
+
+1574112297 c:\users\francisco\desktop\projectofinalultimo\menu.h
+
+1574111358 source:c:\users\francisco\desktop\projectofinalultimo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1574111417 c:\users\francisco\desktop\projectofinalultimo\tdaadmin.h
+
+1574112703 c:\users\francisco\desktop\projectofinalultimo\tdaclientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574112703 source:c:\users\francisco\desktop\projectofinalultimo\tdaclientes.c
+	"tdaClientes.h"
+
+1572597822 source:c:\users\francisco\desktop\projectofinalultimo\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1572597822 source:c:\## utn\programacion ii\proyecto final\fran\projectofinalultimo\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1574111358 source:c:\## utn\programacion ii\proyecto final\fran\projectofinalultimo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1574112297 c:\## utn\programacion ii\proyecto final\fran\projectofinalultimo\menu.h
+
+1574115416 source:c:\## utn\programacion ii\proyecto final\fran\projectofinalultimo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"time.h"
+	"Menu.h"
+	"tdaClientes.h"
+
+1574112703 c:\## utn\programacion ii\proyecto final\fran\projectofinalultimo\tdaclientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574112703 source:c:\## utn\programacion ii\proyecto final\fran\projectofinalultimo\tdaclientes.c
+	"tdaClientes.h"
+
+1572597822 source:f:\projectofinalultimo pablito\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1574111358 source:f:\projectofinalultimo pablito\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1574112297 f:\projectofinalultimo pablito\menu.h
+
+1574123690 source:f:\projectofinalultimo pablito\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"time.h"
+	"Menu.h"
+	"tdaClientes.h"
+
+1574119393 f:\projectofinalultimo pablito\tdaclientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574121569 source:f:\projectofinalultimo pablito\tdaclientes.c
+	"tdaClientes.h"
+
+1572597822 source:c:\## utn\programacion ii\proyecto final\projectofinalultimo pablito\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1574111358 source:c:\## utn\programacion ii\proyecto final\projectofinalultimo pablito\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1574112297 c:\## utn\programacion ii\proyecto final\projectofinalultimo pablito\menu.h
+
+1574127569 source:c:\## utn\programacion ii\proyecto final\projectofinalultimo pablito\tdaclientes.c
+	"tdaClientes.h"
+
+1574119393 c:\## utn\programacion ii\proyecto final\projectofinalultimo pablito\tdaclientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1572597822 source:c:\users\francisco\desktop\projectofinalultimo pablito\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1574111358 source:c:\users\francisco\desktop\projectofinalultimo pablito\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1574112297 c:\users\francisco\desktop\projectofinalultimo pablito\menu.h
+
+1574129421 source:c:\users\francisco\desktop\projectofinalultimo pablito\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"time.h"
+	"Menu.h"
+	"tdaClientes.h"
+
+1574119393 c:\users\francisco\desktop\projectofinalultimo pablito\tdaclientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574127569 source:c:\users\francisco\desktop\projectofinalultimo pablito\tdaclientes.c
+	"tdaClientes.h"
+
+1572597822 source:c:\users\francisco\desktop\projectofinalultimo pablito re ultimo q me paso\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1574111358 source:c:\users\francisco\desktop\projectofinalultimo pablito re ultimo q me paso\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1574169174 c:\users\francisco\desktop\projectofinalultimo pablito re ultimo q me paso\menu.h
+	"tdaClientes.h"
+
+1574206020 source:c:\users\francisco\desktop\projectofinalultimo pablito re ultimo q me paso\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"time.h"
+	"Menu.h"
+	"tdaClientes.h"
+
+1574160546 c:\users\francisco\desktop\projectofinalultimo pablito re ultimo q me paso\tdaclientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574204921 source:c:\users\francisco\desktop\projectofinalultimo pablito re ultimo q me paso\tdaclientes.c
+	"tdaClientes.h"
+
+1572597822 source:c:\## utn\programacion ii\proyecto final\requete re ultimo\projectofinalultimo pablito re ultimo q me paso\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1574111358 source:c:\## utn\programacion ii\proyecto final\requete re ultimo\projectofinalultimo pablito re ultimo q me paso\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1574169174 c:\## utn\programacion ii\proyecto final\requete re ultimo\projectofinalultimo pablito re ultimo q me paso\menu.h
+	"tdaClientes.h"
+
+1574160546 c:\## utn\programacion ii\proyecto final\requete re ultimo\projectofinalultimo pablito re ultimo q me paso\tdaclientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574171992 source:c:\## utn\programacion ii\proyecto final\requete re ultimo\projectofinalultimo pablito re ultimo q me paso\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"time.h"
+	"Menu.h"
+	"tdaClientes.h"
+
+1574171513 source:c:\## utn\programacion ii\proyecto final\requete re ultimo\projectofinalultimo pablito re ultimo q me paso\tdaclientes.c
+	"tdaClientes.h"
+
+1572597822 source:c:\## utn\programacion ii\proyecto final\copia para cagadas\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1574210655 source:c:\## utn\programacion ii\proyecto final\copia para cagadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1574224152 c:\## utn\programacion ii\proyecto final\copia para cagadas\menu.h
+	"tdaClientes.h"
+
+1574222151 c:\## utn\programacion ii\proyecto final\copia para cagadas\tdaclientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574226197 source:c:\## utn\programacion ii\proyecto final\copia para cagadas\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"time.h"
+	"Menu.h"
+	"tdaClientes.h"
+
+1574226197 source:c:\## utn\programacion ii\proyecto final\copia para cagadas\tdaclientes.c
+	"tdaClientes.h"
+
+1572597822 source:c:\users\francisco\desktop\el bueeeeno\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1574210655 source:c:\users\francisco\desktop\el bueeeeno\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1574224152 c:\users\francisco\desktop\el bueeeeno\menu.h
+	"tdaClientes.h"
+
+1574222151 c:\users\francisco\desktop\el bueeeeno\tdaclientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574256817 source:c:\users\francisco\desktop\el bueeeeno\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"time.h"
+	"Menu.h"
+	"tdaClientes.h"
+
+1574257201 source:c:\users\francisco\desktop\el bueeeeno\tdaclientes.c
+	"tdaClientes.h"
+
+1572597822 source:c:\users\juan ignacio\desktop\el bueeeeno\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1574210655 source:c:\users\juan ignacio\desktop\el bueeeeno\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1574224152 c:\users\juan ignacio\desktop\el bueeeeno\menu.h
+	"tdaClientes.h"
+
+1574222151 c:\users\juan ignacio\desktop\el bueeeeno\tdaclientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574257497 source:c:\users\juan ignacio\desktop\el bueeeeno\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"time.h"
+	"Menu.h"
+	"tdaClientes.h"
+
+1574257201 source:c:\users\juan ignacio\desktop\el bueeeeno\tdaclientes.c
+	"tdaClientes.h"
+
+1572597822 source:c:\## utn\programacion ii\proyecto final\tpf laboratorio 2\tpf laboratorio 2\devede 1.0\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1574210655 source:c:\## utn\programacion ii\proyecto final\tpf laboratorio 2\tpf laboratorio 2\devede 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1574224152 c:\## utn\programacion ii\proyecto final\tpf laboratorio 2\tpf laboratorio 2\devede 1.0\menu.h
+	"tdaClientes.h"
+
+1574222151 c:\## utn\programacion ii\proyecto final\tpf laboratorio 2\tpf laboratorio 2\devede 1.0\tdaclientes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1574257497 source:c:\## utn\programacion ii\proyecto final\tpf laboratorio 2\tpf laboratorio 2\devede 1.0\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"windows.h"
+	"time.h"
+	"Menu.h"
+	"tdaClientes.h"
+
+1574257201 source:c:\## utn\programacion ii\proyecto final\tpf laboratorio 2\tpf laboratorio 2\devede 1.0\tdaclientes.c
+	"tdaClientes.h"
+
